@@ -9,12 +9,11 @@ each keyboard has it's own directory with the following files:
 - #KEYBOARD_NAME_preview.png: scaled down export from the svg. Used in the documents to visualize the keyboards
 - README.md: contains the preview picture and information on each board with links to the creator and the kicad sources for each board
 
-# gallery
+# Gallery
+## unibody
+- [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
 
-### unibody
-[Klacker BS](/Klacker_BS/klacker_bs_preview.png)
-
-### split
-[3w6](3w6/3w6_preview.png)
+## split
+- [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
 
 
