@@ -10,9 +10,13 @@ each keyboard has it's own directory with the following files:
 - README.md: contains the preview picture and information on each board with links to the creator and the kicad sources for each board
 
 # Gallery
+This looks a lot better in dark mode.
+
 ## unibody
 - [Adalyn](./Adalyn) ![Adalyn](./Adalyn/adalyn_preview.png)
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
+- [Le Chiffre BLE](./Le_Chiffre_BLE) ![Le Chiffre BLE](./Le_Chiffre_BLE/lechiffreble_preview.png)
+- 
 
 ## split
 - [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
