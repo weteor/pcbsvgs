@@ -3,6 +3,9 @@ This repository contains vector graphics of the pcb data from open source keyboa
 I started this mainly because I wanted to make a deskmat of my keyboard design and needed high res images of the pcb.
 Didn't stopped there and did some more for different people and really enjoyed seeing how different and interesting each keyboards pcb looked when pulled to the light.
 
+**please note**
+The majority of these are NOT my own designs. I've added information to each board and where to find the original sources in each keyboards folder. If you like what you see, please head over to the creator and give him/her a star for their creation. 
+
 # files
 each keyboard has it's own directory with the following files: 
 - #KEYBOARD_NAME_orig.svg: vector graphic scaled to the original size of the pcb.Each pcb layer has it's own layer in the svg, so you can easily change colors of each layer to your needs.
@@ -17,7 +20,7 @@ This looks a lot better in dark mode.
 - [Endeavour](./Endeavour) ![Endeavour](./Endeavour/endeavour_preview.png)
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
 - [Le Chiffre BLE](./Le_Chiffre_BLE) ![Le Chiffre BLE](./Le_Chiffre_BLE/lechiffreble_preview.png)
-- 
+- [Lumberjack](./Lumberjack) ![Lumberjack](./Lumberjack/lumberjack_preview.png)
 
 ## split
 - [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
