@@ -11,6 +11,7 @@ each keyboard has it's own directory with the following files:
 
 # Gallery
 ## unibody
+- [Adalyn](./Adalyn) ![Adalyn](./Adalyn/adalyn_preview.png)
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
 
 ## split
