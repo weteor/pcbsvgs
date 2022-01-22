@@ -21,6 +21,7 @@ This looks a lot better in dark mode.
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
 - [Le Chiffre BLE](./Le_Chiffre_BLE) ![Le Chiffre BLE](./Le_Chiffre_BLE/lechiffreble_preview.png)
 - [Lumberjack](./Lumberjack) ![Lumberjack](./Lumberjack/lumberjack_preview.png)
+- [QEZ](./QEZ) ![QEZ](./QEZ/qez_preview.png)
 
 ## split
 - [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
