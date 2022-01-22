@@ -16,5 +16,7 @@ each keyboard has it's own directory with the following files:
 
 ## split
 - [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
+- [DracuLad](./DracuLad) ![DracuLad](./DracuLad/draculad_preview.png)
+- 
 
 
