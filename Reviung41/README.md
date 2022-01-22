@@ -3,7 +3,7 @@
 ![preview](./reviung41_preview.png)
 
 # board information
-**A seamless, gasketmounted QAZ-like 40% keyboard**
+**A 41-key column staggered keyboard.**
 
 - creator: gtips
 - source: [Github](https://github.com/gtips/reviung/tree/master/reviung41)
