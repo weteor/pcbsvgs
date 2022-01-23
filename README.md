@@ -31,6 +31,8 @@ This looks a lot better in dark mode.
 - [Corne](./Corne) ![Corne](./Corne/corne_preview.png)
 - [DracuLad](./DracuLad) ![DracuLad](./DracuLad/draculad_preview.png)
 - [Ferris](./Ferris) ![Ferris](./Ferris/ferris_preview.png)
+- [Hillside](./Hillside) ![Hillside](./Hillside/hillside_preview.png)
+- [Lily58](./Lily58) ![Lily58](./Lily58/lily58_preview.png)
 - 
 
 
