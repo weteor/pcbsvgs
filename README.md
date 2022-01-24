@@ -1,6 +1,6 @@
 This repository contains vector graphics of the pcb data from open source keyboards.
 
-I started this mainly because I wanted to make a deskmat of my keyboard design and needed high res images of the pcb layout.
+I started this mainly because I wanted to make a deskmat of my keyboard design and needed high res images of the pcb.
 Didn't stopped there and did some more for different people and really enjoyed seeing how different and interesting each keyboards pcb looked when pulled to the light.
 
 **please note**
@@ -16,11 +16,13 @@ each keyboard has it's own directory with the following files:
 This looks a lot better in dark mode.
 
 ## unibody
+- [Absolem](./Absolem) ![Absolem](./Absolem/absolem_preview.png)
 - [Adalyn](./Adalyn) ![Adalyn](./Adalyn/adalyn_preview.png)
 - [Endeavour](./Endeavour) ![Endeavour](./Endeavour/endeavour_preview.png)
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
 - [Le Chiffre BLE](./Le_Chiffre_BLE) ![Le Chiffre BLE](./Le_Chiffre_BLE/lechiffreble_preview.png)
 - [Lumberjack](./Lumberjack) ![Lumberjack](./Lumberjack/lumberjack_preview.png)
+- [Osprette](./Osprette) ![Osprette](./Osprette/osprette_preview.png)
 - [QEZ](./QEZ) ![QEZ](./QEZ/qez_preview.png)
 - [Reviung41](./Reviung41) ![Reviung41](./Reviung41/reviung41_preview.png)
 - [Tipper TF](./Tipper_TF) ![Tipper TF](./Tipper_TF/tippertf_preview.png)
