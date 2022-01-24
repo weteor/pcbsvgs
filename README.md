@@ -32,6 +32,8 @@ This looks a lot better in dark mode.
 ## split
 - [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
 - [Anna](./Anna) ![Anna](./Anna/anna_preview.png)
+- [Architeuthis Dux](./Architeuthis_Dux) ![Architeuthis Dux](./Architeuthis_Dux/architeuthisdux_preview.png)
+- [Clog](./Clog) ![Clog](./Clog/clog_preview.png)
 - [Corne](./Corne) ![Corne](./Corne/corne_preview.png)
 - [DracuLad](./DracuLad) ![DracuLad](./DracuLad/draculad_preview.png)
 - [Ferris](./Ferris) ![Ferris](./Ferris/ferris_preview.png)
