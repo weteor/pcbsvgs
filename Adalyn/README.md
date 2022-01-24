@@ -5,7 +5,9 @@
 # board information
 **36key QAZ-like keyboard**
 
-- creator: MarvFPV
+- creator: 
+    - Layout: MarvFPV
+    - PCB: tominabox1 ([Github](https://github.com/tominabox1))
 - source: [Github](https://github.com/MarvFPV/Adalyn)
 - type: unibody
 
