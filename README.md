@@ -16,7 +16,7 @@ each keyboard has it's own directory with the following files:
 This looks a lot better in dark mode.
 
 ## unibody
-- [Absolem](./Absolem) ![Absolem](./Absolem/absolem_preview.png)
+- [Absolem](./Absolem) ![Absolem](./Absolem/absolem_preview.png) 
 - [Adalyn](./Adalyn) ![Adalyn](./Adalyn/adalyn_preview.png)
 - [Endeavour](./Endeavour) ![Endeavour](./Endeavour/endeavour_preview.png)
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
@@ -31,7 +31,7 @@ This looks a lot better in dark mode.
 
 ## split
 - [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
-- [Anna Weirdo](./Anna_Weirdo) ![Anna Weirdo](./Anna_Weirdo/annaweirdo_preview.png)
+- [Anna](./Anna) ![Anna](./Anna/anna_preview.png)
 - [Corne](./Corne) ![Corne](./Corne/corne_preview.png)
 - [DracuLad](./DracuLad) ![DracuLad](./DracuLad/draculad_preview.png)
 - [Ferris](./Ferris) ![Ferris](./Ferris/ferris_preview.png)
