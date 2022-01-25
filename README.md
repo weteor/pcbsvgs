@@ -42,6 +42,6 @@ This looks a lot better in dark mode.
 - [Hillside](./Hillside) ![Hillside](./Hillside/hillside_preview.png)
 - [Lily58](./Lily58) ![Lily58](./Lily58/lily58_preview.png)
 - [Reviung34 Split MK II](./Reviung34_MK_II) ![Reviung34 Split MK II](./Reviung34_MK_II/reviung34mkii_preview.png)
-- 
+
 
 
