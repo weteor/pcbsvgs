@@ -18,6 +18,7 @@ This looks a lot better in dark mode.
 ## unibody
 - [Absolem](./Absolem) ![Absolem](./Absolem/absolem_preview.png) 
 - [Adalyn](./Adalyn) ![Adalyn](./Adalyn/adalyn_preview.png)
+- [Balbuzard](./Balbuzard) ![Balbuzard](./Balbuzard/balbuzard_preview.png)
 - [Barobord](./Barobord) ![Baroboard](./Barobord/barobord_preview.png)
 - [Endeavour](./Endeavour) ![Endeavour](./Endeavour/endeavour_preview.png)
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Klacker_BS/klacker_bs_preview.png)
