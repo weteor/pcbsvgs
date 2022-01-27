@@ -30,6 +30,7 @@ This looks a lot better in dark mode.
 - [Tipper TF](./Tipper_TF) ![Tipper TF](./Tipper_TF/tippertf_preview.png)
 - [Unibody Sweep](./Unibody_Sweep) ![Unibody Sweep](./Unibody_Sweep/unibodysweep_preview.png)
 - [Vertex](./Vertex) ![Vertex](./Vertex/vertex_preview.png)
+- [XVIII The Moon](./XVIII_The_Moon) ![XVIII The Moon](./XVIII_The_Moon/xviiithemoon_preview.png)
 
 ## split
 - [3w6](./3W6) ![3w6](./3W6/3w6_preview.png)
