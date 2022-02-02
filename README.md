@@ -1,6 +1,6 @@
 ![Klacker BS](./Unibody/Klacker_BS/klacker_bs_preview.png)
 
-This repository contains vector graphics of the pcb data from open source keyboards.
+This repository contains vector graphics of pcb data from open source keyboards.
 
 I started this mainly because I wanted to make a deskmat of my keyboard design and needed high res images of the pcb.
 Didn't stopped there and did some more for different people and really enjoyed seeing how different and interesting each keyboards pcb looked when pulled to the light.
