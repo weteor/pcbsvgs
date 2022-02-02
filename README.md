@@ -14,6 +14,11 @@ each keyboard has it's own directory with the following files:
 - #KEYBOARD_NAME_preview.png: scaled down export from the svg. Used in the documents to visualize the keyboards
 - README.md: contains the preview picture and information on each board with links to the creator and the kicad sources for each board
 
+# create one for yourself
+Take a look at the [Howto](./HowTo/README.md).
+
+I would be more than happy to add more boards to this repo, so if you would like to share your creation, please create an issue or even better create a merge request. Thanks a lot!
+
 # Galleries
 [unibody previews](./Unibody)
 
