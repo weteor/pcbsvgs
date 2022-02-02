@@ -97,7 +97,10 @@ If you happen to create/convert a board, consider creating a pull request for it
       ![export dialog](./img/export_dialog.png)
 `
 ## create a merge request, so I can add the board :D [optional]
+- fork this repo
+- create a directory for your board and copy over svg and preview png.
 - add/copy over README.md and fill in the board information
+- do a merge request
 
 
          
