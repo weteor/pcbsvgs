@@ -1,4 +1,6 @@
-# howto
+# Howto
+
+**this looks way more complicated than it is**
 
 This discribes the process I use to create the svg images. I will use [Kicad](https://www.kicad.org/) for exporting the board data and [Inkscape](https://inkscape.org) to compose the images.
 
