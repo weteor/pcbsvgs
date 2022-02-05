@@ -30,6 +30,7 @@ I would be more than happy to add more boards to this repo, so if you would like
 - [Balbuzard](./Balbuzard) ![Balbuzard](./Unibody/Balbuzard/balbuzard_preview.png)
 - [Barobord](./Barobord) ![Baroboard](./Unibody/Barobord/barobord_preview.png)
 - [Endeavour](./Endeavour) ![Endeavour](./Unibody/Endeavour/endeavour_preview.png)
+- [FK45](./FK45) ![FK45](./Unibody/FK45/fk45_preview.png)
 - [Klacker BS](./Klacker_BS) ![Klacker BS](./Unibody/Klacker_BS/klacker_bs_preview.png)
 - [Le Chiffre BLE](./Le_Chiffre_BLE) ![Le Chiffre BLE](./Unibody/Le_Chiffre_BLE/lechiffreble_preview.png)
 - [Lumberjack](./Lumberjack) ![Lumberjack](./Unibody/Lumberjack/lumberjack_preview.png)
